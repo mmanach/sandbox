@@ -1,4 +1,5 @@
 # Project to reproduce AfterScenario issue
+https://github.com/serenity-bdd/serenity-core/issues/896
 
 ## Configurations
 For now, only tested on Windows 10 and with Chrome and Firefox (both last version).
