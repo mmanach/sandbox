@@ -1,4 +1,4 @@
-package talend;
+package talend.runner;
 
 import net.serenitybdd.jbehave.SerenityStory;
 
